@@ -1,3 +1,5 @@
+<span style="font-family: 'Fira Code', monospace;">Sample text with custom font suggestion.</span>
+<b>
 - 👋 Hi, I’m @arun-jyothish
 - 👀 I’m interested in System software Design
                         * Networking/Multimedia Applications
@@ -13,13 +15,11 @@
 - 😌 i'm into funny but productive colab, let's enjoy while coding, No More Ego fighting 😌
 - 😋 my Favourite language is c and cpp
 
-BTW i use arch 😎 with i3-wm and vim and have few years of experience with them 
-and currently using emacs as my editor 
-and only code in my custom linux setup 🤫
+BTW i use arch 😎 with i3-wm and rofi
+Currently using _EMACS_ as my primary Editor 
+and i only code in my custom linux setup 🤫 and i hate WINDOWS and MACOS
 
-![picture of my host-pc screenshot](jeis-pc-banner.png)
-
-## hey there !! 😖
+</b>
 ![LQ screen_capture host-pc](LQ_screen_cap.gif)
 <!---
 arun-jyothish/arun-jyothish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
