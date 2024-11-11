@@ -1,32 +1,23 @@
-<pre>
-<b>
-- 👋 Hi, I’m @arun-jyothish
-- 👀 I’m interested in System software Design
-<br>        - 👾 Networking/Multimedia Applications
-<br>        - 🤖 Linux kernel programming
+**- 👋 Hi, I’m @arun-jyothish**  
+**- 👀 I’m interested in System Software Design**  
+&nbsp;&nbsp;&nbsp;&nbsp;**- 👾 Networking/Multimedia Applications**  
+&nbsp;&nbsp;&nbsp;&nbsp;**- 🤖 Linux kernel programming**
 
-- 🌱 I’m currently working as a Software Design Engineer
-- 💞️ I’m looking to collaborate on any c/cpp projects
-- 📫 How to reach me
-<br>        - 💥 E-mail: arunjyothishk@gmail.com
-<br>        - 💫 linkedIn: https://www.linkedin.com/in/arun-jyothish/
-- 😄 Pronouns: jyothu
-- ⚡ Fun fact: i would like to play guitar when i'm tired of coding, guess what i'm pretty bad at it 	😅
-- 😌 i'm into funny but productive colab, let's enjoy while coding, No More Ego fighting 😌
-- 😋 my Favourite language is c and cpp
+**- 🌱 I’m currently working as a Software Design Engineer**  
+**- 💞️ I’m looking to collaborate on any C/C++ projects**  
+**- 📫 How to reach me**  
+&nbsp;&nbsp;&nbsp;&nbsp;**- 💥 E-mail: arunjyothishk@gmail.com**  
+&nbsp;&nbsp;&nbsp;&nbsp;**- 💫 LinkedIn: [https://www.linkedin.com/in/arun-jyothish/](https://www.linkedin.com/in/arun-jyothish/)**  
+**- 😄 Pronouns: jyothu**  
+**- ⚡ Fun fact:** I would like to play guitar when I'm tired of coding; guess what, I'm pretty bad at it 😅  
+**- 😌 I'm into funny but productive collaboration; let's enjoy coding, no more ego fighting 😌**  
+**- 😋 My favorite languages are C and C++**
 
-BTW i use arch 😎 with i3-wm and rofi
-<br>Currently using _EMACS_ as my primary Editor after my 4 years journey with vim
-<br>I like both vim and emacs 😣
+BTW, I use Arch 😎 with i3-wm and rofi.  
+Currently using *EMACS* as my primary editor after my 4 years journey with vim.  
+I like both vim and emacs 😣
 
-😖 And i'll tell you a secret
-<br>    I only code in my custom linux setup 🤫 and i hate WINDOWS and MACOS
-</b>
-<pre>
+😖 **And I'll tell you a secret:**  
+&nbsp;&nbsp;&nbsp;&nbsp;I only code in my custom Linux setup 🤫 and I dislike Windows and macOS.
 
-![LQ screen_capture host-pc](LQ_screen_cap.gif)
-
-<!---
-arun-jyothish/arun-jyothish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![LQ screen capture host-pc](LQ_screen_cap.gif)
