@@ -14,7 +14,7 @@
         💥 E-mail: arunjyothishk@gmail.com
         💫 LinkedIn: https://www.linkedin.com/in/arun-jyothish/
 ~~~
-- 😄 Pronouns: jyothu
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I would like to play guitar when I'm tired of coding; guess what, I'm pretty bad at it 😅
 - 😌 I'm into funny but productive colab, let's enjoy coding without ego-fighting 😌
 - 😋 My favorite languages are C and C++
