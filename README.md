@@ -1,6 +1,6 @@
 <b>
   
-- 👋 Hi, I’m @arun-jyothish
+# 👋 Hi, I’m @arun-jyothish
 - 🌱 I’m currently working as a Software Design Engineer
 - 👀 I’m interested in ...
 ~~~
