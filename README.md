@@ -5,7 +5,9 @@
 - 👀 I’m interested in ...
 ~~~
         👾 Networking/Multimedia Applications
-        🤖 Linux kernel programming
+        💻 Linux kernel programming
+        🔗 Cloud applications
+        🤖 Edge Computing/AI
 ~~~
 
 - 💞️ I’m looking to collaborate on any c/cpp projects
@@ -16,7 +18,7 @@
 ~~~
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I would like to play guitar when I'm tired of coding; guess what, I'm pretty bad at it 😅
-- 😌 I'm into funny but productive colab, let's enjoy coding without ego-fighting 😌
+- 😌 I'm into funny but productive collaboration, let's enjoy coding without ego-fighting 😌
 - 😋 My favorite languages are C and C++
 ~~~c++
 struct Person {
