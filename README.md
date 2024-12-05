@@ -15,6 +15,7 @@
 ~~~
         💥 E-mail: arunjyothishk@gmail.com
         💫 LinkedIn: https://www.linkedin.com/in/arun-jyothish/
+        👨‍💻 StackOverflow: https://stackoverflow.com/users/28410734/arun-jyothish-k
 ~~~
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I would like to play guitar when I'm tired of coding; guess what, I'm pretty bad at it 😅
