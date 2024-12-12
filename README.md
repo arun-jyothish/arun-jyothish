@@ -40,4 +40,18 @@ int main() {
     return 0;
 }
 ~~~
+
+### Skills
+```json
+{
+"skills": {
+    "Programming Languages":" C, C++, Python, Bash"
+    "Tools":" Git, Docker, PetaLinux, Emacs, i3wm, Vim"
+    }
+}
+```
+
+</b>
+
 ![LQ screen capture host-pc](LQ_screen_cap.gif)
+
