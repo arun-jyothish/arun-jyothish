@@ -59,6 +59,8 @@ Customized workflows, editor configurations, window management, and development 
 
 *JEISYN's Emacs splash (`*jeisyn*`): a custom dashboard buffer on the i3 desktop, opening on the JEISYN board — scan, sync, data, RAM, core, and log.*
 
+![jeisyn workflow Architechture & Schematics](workflow-arch-sch.png)
+
 ## Collaboration
 
 Interested in open-source collaboration involving:
