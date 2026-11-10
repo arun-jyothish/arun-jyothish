@@ -55,7 +55,7 @@ Customized workflows, editor configurations, window management, and development 
 - **Personal Portfolio:** [arunjyothishk.me](https://arunjyothishk.me) — Professional portfolio showcasing my technical background and engineering projects.
 - **Jeisyn:** [jeisyn.in](https://jeisyn.in) — Independent technology initiative focused on software products and engineering solutions.
 
-![JEISYN splash inside Emacs](jeisyn.emacs.logo.png)
+![JEISYN splash inside Emacs](jeisyn-workflow-1.png)
 
 *JEISYN's Emacs splash (`*jeisyn*`): a custom dashboard buffer on the i3 desktop, opening on the JEISYN board — scan, sync, data, RAM, core, and log.*
 
