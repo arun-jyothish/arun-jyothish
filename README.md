@@ -42,10 +42,22 @@ A personalized, keyboard-driven Arch Linux environment optimized for software en
 
 Customized workflows, editor configurations, window management, and development tools tailored for embedded systems and C/C++ development.
 
+![JEIS Arch Linux desktop on a ThinkPad](jeis-pc-banner.png)
+
+*Tiled i3 workspace on Arch Linux. Emacs holds the kernel tree (`boot/main.c`); the pane beside it is a live readout of the machine — kernel 6.6 LTS, zsh, i3, and a Ryzen 5 with Radeon graphics.*
+
+![Daily workflow on the same desktop](LQ_screen_cap.gif)
+
+*The environment in motion: kernel C in Emacs, a GCC kernel build, a Git push, and an FFmpeg screen encode, each in its own tile.*
+
 ## Portfolio & Independent Projects
 
 - **Personal Portfolio:** [arunjyothishk.me](https://arunjyothishk.me) — Professional portfolio showcasing my technical background and engineering projects.
 - **Jeisyn:** [jeisyn.in](https://jeisyn.in) — Independent technology initiative focused on software products and engineering solutions.
+
+![JEISYN splash inside Emacs](jeisyn.emacs.logo.png)
+
+*JEISYN's Emacs splash (`*jeisyn*`): a custom dashboard buffer on the i3 desktop, opening on the JEISYN board — scan, sync, data, RAM, core, and log.*
 
 ## Collaboration
 
@@ -74,7 +86,7 @@ I enjoy playing guitar, exploring emerging technologies, and continuous learning
 
 ### Engineering Philosophy
 
-```
+```C
 struct Engineer {
     bool curious = true;
     bool collaborative = true;
